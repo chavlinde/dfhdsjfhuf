@@ -1,2 +1,2 @@
 let nomeUsuario='bianka,hikari';
-alert('nomeUsuario')
+alert('let nomeUsuario')
