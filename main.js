@@ -1,2 +1,2 @@
-let nomeUsiario='bianka,hikari';
-alert('bianka,hikari')
+let nomeUsuario='bianka,hikari';
+alert('nomeUsuario')
