@@ -1,5 +1,5 @@
-// let nomeUsuario='bianka,hikari';
-// alert(nomeUsuario)
+ let nomeUsuario='bianka,hikari';
+alert(nomeUsuario)
 function soma(num1,num2){
     return num1+num2;
 }
@@ -14,6 +14,8 @@ let areaTriangulo= function(base,altura){
 }
 console.log (areaTriangulo);
 
-let numero= parseInt prompt('tres numeros');
+let numero= parseInt (prompt('num1.num2,num3'));
 document,Write (numero); 
-function 
+function media(){
+    return( .)
+}
