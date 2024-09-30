@@ -29,6 +29,6 @@
 // }
 
 for (let i = 0; i estados < array.length; i++) {
-    console.log(estados[i]) = array[i];
+    console.log(estados[i]); 
     
 }
