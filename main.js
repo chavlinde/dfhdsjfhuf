@@ -24,5 +24,6 @@ let estados= ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Espí
 let i=0;
 while(i<28
 ){ console.log(i);
+    console.log(estados[i]);
     i=i+1;
 }
