@@ -33,6 +33,6 @@ let estados= ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Espí
     
 // }
 
-let idade=67;
+let idade=parseInt(prompt('qual é a sua idade));
 if(idade>17){console.log('ja pode dirigir');}
 else{console.log('é ilegal');}
